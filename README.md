@@ -1,4 +1,4 @@
 RedditMediaChecker
 ==================
 
-Gem for determining what links in Reddit field have a valid media field.
+This gem fetches a list of domains and permalinks from a from a certain number of pages of a Reddit feed that contain a valid media field.
